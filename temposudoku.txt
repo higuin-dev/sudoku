@@ -1,0 +1,2 @@
+void salvarTempos(int melhoresTempos[3]);
+void carregarTempos(int melhoresTempos[3]);
